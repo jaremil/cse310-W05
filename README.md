@@ -3,9 +3,7 @@
 
 This project was so that I could learn the process of creating a Cloud Database.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+IMG_4954.MOV 
 
 # Cloud Database
 
